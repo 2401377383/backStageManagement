@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.el-table .el-table__cell {
+    padding: 5px 0;
+}
